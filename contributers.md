@@ -15,6 +15,6 @@
 | Mohan Kumar             | aricthecoder         | IIIT Allahabad                 |
 | Rushal Verma            | Rushalverma          | IIIT allahabad                 |
 | Avaneesh Verma          | avaneeshk2307-wq     | IIIT Allahabad                 |
-
+| Saumya Sood             | Marcella2706         | IIIT Allahabad                 |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
